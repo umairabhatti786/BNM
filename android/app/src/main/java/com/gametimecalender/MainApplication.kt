@@ -1,4 +1,4 @@
-package com.piercingar
+package com.buzz
 
 import android.app.Application
 import com.facebook.react.PackageList

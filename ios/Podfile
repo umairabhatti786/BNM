@@ -44,7 +44,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'PiercingAR' do
+target 'Buzz' do
   config = use_native_modules!
 
   use_react_native!(

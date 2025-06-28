@@ -24,7 +24,7 @@
 		B88FA9D7B16CFE55C8D5DD22 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		BD6E4AC40E804F34ABDDA0F8 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 446DF1DBC2C14A578585D0A5 /* Inter-SemiBold.ttf */; };
 		BF52CB6DD91043499E845464 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 531464171B824B2786924C57 /* Poppins-SemiBold.ttf */; };
-		D3CDE4D380FACAF58B32DA1A /* libPods-PiercingAR.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBAE9BA7F5AA04980E7C02A /* libPods-PiercingAR.a */; };
+		D3CDE4D380FACAF58B32DA1A /* libPods-Buzz.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACBAE9BA7F5AA04980E7C02A /* libPods-Buzz.a */; };
 		D952A380E2E44C5CA7E4ECD7 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 39611BE27D7D4BEC9B6B1909 /* Inter-Bold.ttf */; };
 		F3E0D881F58A4CFDB8800532 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC6A7606151C447EBBDD3D71 /* Poppins-Black.ttf */; };
 /* End PBXBuildFile section */
@@ -33,24 +33,24 @@
 		06A48C734D784257B35F1675 /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-ExtraBold.ttf"; path = "../assets/fonts/Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
 		0A96EAA5600246B69A5EADC9 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		12C56CAF75E34D2DA2FBA7F2 /* Inter-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Light.ttf"; path = "../assets/fonts/Inter-Light.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* PiercingAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PiercingAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = PiercingAR/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = PiercingAR/Info.plist; sourceTree = "<group>"; };
-		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = PiercingAR/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		23BF06BCB05268990446CB15 /* Pods-PiercingAR.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PiercingAR.release.xcconfig"; path = "Target Support Files/Pods-PiercingAR/Pods-PiercingAR.release.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* Buzz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Buzz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "Buzz/Images.xcassets"; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Buzz/Info.plist"; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = Buzz/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		23BF06BCB05268990446CB15 /* Pods-Buzz.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Buzz.release.xcconfig"; path = "Target Support Files/Pods-Buzz/Pods-Buzz.release.xcconfig"; sourceTree = "<group>"; };
 		2CB3C90C235E477AB1F9A877 /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
 		39611BE27D7D4BEC9B6B1909 /* Inter-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Bold.ttf"; path = "../assets/fonts/Inter-Bold.ttf"; sourceTree = "<group>"; };
 		446DF1DBC2C14A578585D0A5 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-SemiBold.ttf"; path = "../assets/fonts/Inter-SemiBold.ttf"; sourceTree = "<group>"; };
 		531464171B824B2786924C57 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
 		5DB56C3EB0F449249DB95E83 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
-		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = PiercingAR/AppDelegate.swift; sourceTree = "<group>"; };
+		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = Buzz/AppDelegate.swift; sourceTree = "<group>"; };
 		79CC3D8E0B0E4A05B929300C /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		7D861BCACC384264963E87CC /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBold.ttf"; path = "../assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = PiercingAR/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "Buzz/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 		9626E4D02ACA40CA8546A998 /* Inter-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Medium.ttf"; path = "../assets/fonts/Inter-Medium.ttf"; sourceTree = "<group>"; };
 		9FE6B086D2A84F769A59CCC0 /* Inter-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Black.ttf"; path = "../assets/fonts/Inter-Black.ttf"; sourceTree = "<group>"; };
-		ACBAE9BA7F5AA04980E7C02A /* libPods-PiercingAR.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-PiercingAR.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B361C434CBB7D1CAEC50E633 /* Pods-PiercingAR.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PiercingAR.debug.xcconfig"; path = "Target Support Files/Pods-PiercingAR/Pods-PiercingAR.debug.xcconfig"; sourceTree = "<group>"; };
+		ACBAE9BA7F5AA04980E7C02A /* libPods-Buzz.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Buzz.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B361C434CBB7D1CAEC50E633 /* Pods-Buzz.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Buzz.debug.xcconfig"; path = "Target Support Files/Pods-Buzz/Pods-Buzz.debug.xcconfig"; sourceTree = "<group>"; };
 		B48C5EB58AE246DE935B6E59 /* Inter-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Regular.ttf"; path = "../assets/fonts/Inter-Regular.ttf"; sourceTree = "<group>"; };
 		DC6A7606151C447EBBDD3D71 /* Poppins-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Black.ttf"; path = "../assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
 		DFC2AE5610564DB994E1BF6D /* Inter-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Italic.ttf"; path = "../assets/fonts/Inter-Italic.ttf"; sourceTree = "<group>"; };
@@ -62,14 +62,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3CDE4D380FACAF58B32DA1A /* libPods-PiercingAR.a in Frameworks */,
+				D3CDE4D380FACAF58B32DA1A /* libPods-Buzz.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		13B07FAE1A68108700A75B9A /* PiercingAR */ = {
+		13B07FAE1A68108700A75B9A /* Buzz */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -78,14 +78,14 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
 			);
-			name = PiercingAR;
+			name = "Buzz";
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				ACBAE9BA7F5AA04980E7C02A /* libPods-PiercingAR.a */,
+				ACBAE9BA7F5AA04980E7C02A /* libPods-Buzz.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -100,7 +100,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* PiercingAR */,
+				13B07FAE1A68108700A75B9A /* Buzz */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
@@ -115,7 +115,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* PiercingAR.app */,
+				13B07F961A680F5B00A75B9A /* Buzz.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,8 +123,8 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B361C434CBB7D1CAEC50E633 /* Pods-PiercingAR.debug.xcconfig */,
-				23BF06BCB05268990446CB15 /* Pods-PiercingAR.release.xcconfig */,
+				B361C434CBB7D1CAEC50E633 /* Pods-Buzz.debug.xcconfig */,
+				23BF06BCB05268990446CB15 /* Pods-Buzz.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -154,9 +154,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		13B07F861A680F5B00A75B9A /* PiercingAR */ = {
+		13B07F861A680F5B00A75B9A /* Buzz */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "PiercingAR" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Buzz" */;
 			buildPhases = (
 				8A6F5CE23DF20D7B28B88F53 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
@@ -170,9 +170,9 @@
 			);
 			dependencies = (
 			);
-			name = PiercingAR;
-			productName = PiercingAR;
-			productReference = 13B07F961A680F5B00A75B9A /* PiercingAR.app */;
+			name = "Buzz";
+			productName = "Buzz";
+			productReference = 13B07F961A680F5B00A75B9A /* Buzz.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -188,7 +188,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "PiercingAR" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Buzz" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -201,7 +201,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* PiercingAR */,
+				13B07F861A680F5B00A75B9A /* Buzz */,
 			);
 		};
 /* End PBXProject section */
@@ -257,19 +257,19 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-PiercingAR/Pods-PiercingAR-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Buzz/Pods-Buzz-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			inputPaths = (
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-PiercingAR/Pods-PiercingAR-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Buzz/Pods-Buzz-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PiercingAR/Pods-PiercingAR-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Buzz/Pods-Buzz-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		8A6F5CE23DF20D7B28B88F53 /* [CP] Check Pods Manifest.lock */ = {
@@ -287,7 +287,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-PiercingAR-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Buzz-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -300,19 +300,19 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-PiercingAR/Pods-PiercingAR-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Buzz/Pods-Buzz-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			inputPaths = (
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-PiercingAR/Pods-PiercingAR-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-Buzz/Pods-Buzz-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PiercingAR/Pods-PiercingAR-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Buzz/Pods-Buzz-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -331,15 +331,16 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B361C434CBB7D1CAEC50E633 /* Pods-PiercingAR.debug.xcconfig */;
+			baseConfigurationReference = B361C434CBB7D1CAEC50E633 /* Pods-Buzz.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = PiercingAR/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = PiercingAR;
+				INFOPLIST_FILE = "Buzz/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "Buzz";
+				INFOPLIST_KEY_CFBundleDisplayName = Buzz;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -352,7 +353,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.piercingar.app;
-				PRODUCT_NAME = PiercingAR;
+				PRODUCT_NAME = "Buzz";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -364,14 +365,15 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 23BF06BCB05268990446CB15 /* Pods-PiercingAR.release.xcconfig */;
+			baseConfigurationReference = 23BF06BCB05268990446CB15 /* Pods-Buzz.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = PiercingAR/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = PiercingAR;
+				INFOPLIST_FILE = "Buzz/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "Buzz";
+				INFOPLIST_KEY_CFBundleDisplayName = Buzz;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -384,7 +386,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.piercingar.app;
-				PRODUCT_NAME = PiercingAR;
+				PRODUCT_NAME = "Buzz";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
@@ -542,7 +544,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "PiercingAR" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Buzz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -551,7 +553,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "PiercingAR" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Buzz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
