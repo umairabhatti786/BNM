@@ -1,0 +1,48 @@
+import React, { useState } from 'react';
+import { View, Text, Image, TouchableOpacity,Modal } from 'react-native';
+import { colors, dimensions, fontSizes } from '../styles/constants';
+import { useNavigation } from '@react-navigation/native';
+
+const HeaderComponent = ({title }) => {
+
+   const navigation = useNavigation();
+
+const handleGoBack = () => {
+  navigation.goBack();
+};
+
+  return (
+    <View
+      style={{
+        flexDirection: 'row',
+        alignItems: 'center',
+        padding: dimensions.paddingLevel3,
+        backgroundColor:colors.white,
+        height:dimensions.heightLevel6,
+        shadowColor: '#000',
+        shadowOpacity: 0.1,
+        shadowRadius: 10,
+        shadowOffset: { width: 0, height: 5 },
+        elevation: 7,
+      }}
+    >
+    
+        <TouchableOpacity onPress={handleGoBack}>
+        <Image
+          source={require('../assets/webp/leftArrow.webp')} // Menu icon image
+          style={{
+            width: 18,
+            height: 18,
+          }}
+        />
+        </TouchableOpacity>
+      
+      <Text style={{ flex: 1, textAlign: 'center', fontWeight: '700',color:colors.black,fontSize:fontSizes.fontLarge }}>
+       {title}
+      </Text>
+
+    </View>
+  );
+};
+
+export default HeaderComponent;
