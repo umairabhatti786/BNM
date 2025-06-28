@@ -31,25 +31,76 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Dorian requires photo library access to upload and share photos.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Your message to user when the camera is accessed for the first time</string>
 	<key>UIAppFonts</key>
-	<array>
-		<string>Poppins-Black.ttf</string>
-		<string>Poppins-Bold.ttf</string>
-		<string>Poppins-ExtraBold.ttf</string>
-		<string>Poppins-Light.ttf</string>
-		<string>Poppins-Medium.ttf</string>
-		<string>Poppins-Regular.ttf</string>
-		<string>Poppins-SemiBold.ttf</string>
-		<string>Inter-Black.ttf</string>
+	<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>FontAwesome6_Brands.ttf</string>
+		<string>FontAwesome6_Regular.ttf</string>
+		<string>FontAwesome6_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>SF-Compact-Display-Black.ttf</string>
+		<string>SF-Compact-Display-Bold.ttf</string>
+		<string>SF-Compact-Display-Heavy.ttf</string>
+		<string>SF-Compact-Display-Light.ttf</string>
+		<string>SF-Compact-Display-Medium.ttf</string>
+		<string>SF-Compact-Display-Regular.ttf</string>
+		<string>SF-Compact-Display-Semibold.ttf</string>
+		<string>SF-Compact-Display-Thin.ttf</string>
+		<string>SF-Compact-Display-Ultralight.ttf</string>
+		<string>SF-Compact-Italic.ttf</string>
+		<string>SF-Compact-Rounded-Black.ttf</string>
+		<string>SF-Compact-Rounded-Bold.ttf</string>
+		<string>SF-Compact-Rounded-Heavy.ttf</string>
+		<string>SF-Compact-Rounded-Light.ttf</string>
+		<string>SF-Compact-Rounded-Medium.ttf</string>
+		<string>SF-Compact-Rounded-Regular.ttf</string>
+		<string>SF-Compact-Rounded-Semibold.ttf</string>
+		<string>SF-Compact-Rounded-Thin.ttf</string>
+		<string>SF-Compact-Rounded-Ultralight.ttf</string>
+		<string>SF-Compact-Text-Black.ttf</string>
+		<string>SF-Compact-Text-BlackItalic.ttf</string>
+		<string>SF-Compact-Text-Bold.ttf</string>
+		<string>SF-Compact-Text-BoldItalic.ttf</string>
+		<string>SF-Compact-Text-Heavy.ttf</string>
+		<string>SF-Compact-Text-HeavyItalic.ttf</string>
+		<string>SF-Compact-Text-Light.ttf</string>
+		<string>SF-Compact-Text-LightItalic.ttf</string>
+		<string>SF-Compact-Text-Medium.ttf</string>
+		<string>SF-Compact-Text-MediumItalic.ttf</string>
+		<string>SF-Compact-Text-Regular.ttf</string>
+		<string>SF-Compact-Text-RegularItalic.ttf</string>
+		<string>SF-Compact-Text-Semibold.ttf</string>
+		<string>SF-Compact-Text-SemiboldItalic.ttf</string>
+		<string>SF-Compact-Text-Thin.ttf</string>
+		<string>SF-Compact-Text-ThinItalic.ttf</string>
+		<string>SF-Compact-Text-Ultralight.ttf</string>
+		<string>SF-Compact-Text-UltralightItalic.ttf</string>
+		<string>SF-Compact.ttf</string>
 		<string>Inter-Bold.ttf</string>
-		<string>Inter-ExtraBold.ttf</string>
-		<string>Inter-Italic.ttf</string>
 		<string>Inter-Light.ttf</string>
 		<string>Inter-Medium.ttf</string>
 		<string>Inter-Regular.ttf</string>
 		<string>Inter-SemiBold.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
