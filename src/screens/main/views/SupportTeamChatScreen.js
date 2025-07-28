@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, FlatList, StyleSheet, Image } from 'react-native';
-import DocumentPicker from 'react-native-document-picker';
+// import DocumentPicker from 'react-native-document-picker';
 import HeaderComponent from '../../../components/HeaderComponent';
 import { colors, dimensions } from '../../../styles/constants';
 
@@ -78,7 +78,7 @@ export default function SupportTeamChatScreen() {
       <View style={styles.inputContainer}>
         <TouchableOpacity 
         style={styles.uploadButton} 
-        onPress={handleFilePicker}
+        // onPress={handleFilePicker}
         >
           <Image
             source={require('../../../assets/webp/uploadIcon.webp')}
